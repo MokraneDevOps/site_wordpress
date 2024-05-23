@@ -1,0 +1,14 @@
+[Thu May 23 10:16:31.067635 2024] [fcgid:warn] [pid 8656:tid 1324] [client 127.0.0.1:63089] mod_fcgid: read timeout from pipe
+[Thu May 23 10:16:31.068047 2024] [core:error] [pid 8656:tid 1324] [client 127.0.0.1:63089] End of script output before headers: index.php
+[Thu May 23 12:53:52.586774 2024] [fcgid:warn] [pid 26620:tid 1316] (OS 109)Le canal de communication a été fermé.  : [client 127.0.0.1:65181] mod_fcgid: get overlap result error
+[Thu May 23 12:53:52.586774 2024] [core:error] [pid 26620:tid 1316] [client 127.0.0.1:65181] End of script output before headers: wp-cron.php
+[Thu May 23 12:54:46.865065 2024] [fcgid:warn] [pid 26040:tid 1320] (OS 109)Le canal de communication a été fermé.  : [client 127.0.0.1:65205] mod_fcgid: get overlap result error
+[Thu May 23 12:54:46.865065 2024] [core:error] [pid 26040:tid 1320] [client 127.0.0.1:65205] End of script output before headers: wp-cron.php
+[Thu May 23 12:54:46.915042 2024] [fcgid:warn] [pid 26040:tid 1312] (OS 109)Le canal de communication a été fermé.  : [client 127.0.0.1:65209] mod_fcgid: get overlap result error
+[Thu May 23 12:54:46.915042 2024] [core:error] [pid 26040:tid 1312] [client 127.0.0.1:65209] End of script output before headers: wp-cron.php
+[Thu May 23 12:56:12.408415 2024] [fcgid:warn] [pid 9152:tid 1324] [client 127.0.0.1:65239] mod_fcgid: read timeout from pipe
+[Thu May 23 12:56:12.416436 2024] [core:error] [pid 9152:tid 1324] [client 127.0.0.1:65239] End of script output before headers: wp-cron.php
+[Thu May 23 12:56:13.624631 2024] [fcgid:warn] [pid 9152:tid 1312] [client 127.0.0.1:65243] mod_fcgid: read timeout from pipe
+[Thu May 23 12:56:13.624631 2024] [core:error] [pid 9152:tid 1312] [client 127.0.0.1:65243] End of script output before headers: wp-cron.php
+[Thu May 23 12:56:14.724538 2024] [fcgid:warn] [pid 9152:tid 1304] [client 127.0.0.1:65249] mod_fcgid: read timeout from pipe
+[Thu May 23 12:56:14.724538 2024] [core:error] [pid 9152:tid 1304] [client 127.0.0.1:65249] End of script output before headers: wp-cron.php
